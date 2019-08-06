@@ -3,10 +3,10 @@
   <groupId>com.tuia.sdk</groupId>
   <artifactId>plugin_sdk</artifactId>
   <versioning>
-    <release>sdk-1.0.0</release>
+    <release>1.0.0</release>
     <versions>
-      <version>sdk-1.0.0</version>
+      <version>1.0.0</version>
     </versions>
-    <lastUpdated>20190806084024</lastUpdated>
+    <lastUpdated>20190806090952</lastUpdated>
   </versioning>
 </metadata>
